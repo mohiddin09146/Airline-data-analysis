@@ -2,6 +2,7 @@
 In this project, I am prominently trying to Analyse the airline data set, First I made a Dashboard in order to have an overview of the data, then I perform Data analysis in Jupyter Notebook according to the problem statement, and then make a final report
 
 🧭 Project Overview
+
 This project follows a structured analytical pipeline:
 
 1.Dashboard Overview: Built an interactive Microsoft Power BI dashboard to establish high-level operational KPIs and data visibility.
@@ -46,6 +47,6 @@ This project follows a structured analytical pipeline:
 
 📁 Airline_data_analysis
 │
-├── 📂 data/             # Raw and processed datasets
-├── 📂 notebooks/        # Jupyter notebooks containing Python EDA
-├── 📂 dashboard/        # Power BI (.pbix) files and exported layouts
+├── 📂 data/           # Raw and processed datasets
+├── 📂 notebooks/      # Jupyter notebooks containing Python EDA
+├── 📂 dashboard/      # Power BI (.pbix) files and exported layouts
