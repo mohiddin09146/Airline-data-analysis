@@ -31,7 +31,7 @@ This project follows a structured analytical pipeline:
 
 - DAX Calculations: Computed custom measures for advanced aggregations and metric filtering.
 
--Visual Design: Selected intuitive chart types optimized for executive reporting.
+- Visual Design: Selected intuitive chart types optimized for executive reporting.
 
 🐍 2. Python-Based Data Analysis
 
@@ -39,9 +39,10 @@ This project follows a structured analytical pipeline:
 
 - Sanitization: Addressed structural inconsistencies, duplicates, and missing values.
 
--Outlier Removal: Applied statistical methods (such as IQR filtering) to remove extreme anomalies that could skew insights.
+- Outlier Removal: Applied statistical methods (such as IQR filtering) to remove extreme anomalies that could skew insights.
 
--Exploratory Analysis: Uncovered hidden trends, correlations, and performance bottlenecks.
+- Exploratory Analysis: Uncovered hidden trends, correlations, and performance bottlenecks.
+- 
 
 📁 Airline_data_analysis
 │
